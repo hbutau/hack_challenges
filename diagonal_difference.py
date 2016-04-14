@@ -16,6 +16,12 @@
 
 # Sample Input
 
+# 3
+# 11 2 4
+# 4 5 6
+# 10 8 -12
+
+
 # Explanation
 
 # The primary diagonal is:
@@ -32,10 +38,6 @@
 # Sum across the secondary diagonal: 4 + 5 + 10 = 19
 # Difference: |4 - 19| = 15
 
-# 3
-# 11 2 4
-# 4 5 6
-# 10 8 -12
 
 import sys
 
